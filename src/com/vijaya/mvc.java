@@ -1,6 +1,8 @@
 package com.vijaya;
 @RestController
 public class mvc {
-	psvm(String[] args)
+	psvm(String[] args){
+		StringBuffer sb=new StringBuffer();
+	}
 
 }
